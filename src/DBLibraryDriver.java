@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*;
 
 /** 
- * To run, issue: java DBLibraryDriver "YourDatabaseName" "YourDatabaseUsername" "YourDatabasePassword" 
+ * To run, issue: java DBLibraryDriver "aonneji" "aonneji" "YourDatabasePassword" 
  * in the Interactions Pane in Dr. Java
  * 
  * Output will be saved to a comman-separated file called output.csv which you may open using a text editor or
